@@ -1,10 +1,10 @@
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=299174105)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=gnodgl)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
-**299174105/299174105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**gnodgl/gnodgl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
